@@ -1,0 +1,6 @@
+Desafio de Projeto.
+
+-- Criação, atualização e sincronização do respositório Cursos.
+
+A Pasta Cursos servirá para organização de todos os cursos que eu for fazendo ao longo do tempo, para salvar arquivos e anotações tanto da DIO quanto de outras instituições.
+
